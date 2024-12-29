@@ -1,0 +1,36 @@
+.body{
+    background-color: rgb(9, 7, 7);
+}
+.next
+{
+   
+    color: white;
+  }
+.body{
+    color: rgb(250, 248, 248);
+    background-image: url('https://img.freepik.com/free-psd/modern-abstract-deep-blue-gradient-background_84443-3754.jpg');
+}
+.i{
+    color: red;
+
+}
+.intro{
+    color: yellow;
+}
+.introduction{
+    color: whitesmoke;
+}
+.inside{
+    color: greenyellow;
+}
+.pic{
+    border-radius: 20%;
+}
+.frontend{
+    color: black;
+    background-color: whitesmoke;
+    width: 25%;
+}
+.des{
+    color: black;
+}
